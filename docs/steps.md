@@ -20,3 +20,15 @@ Após criar o componente é preciso:
 
 - Fazer a declaração do componente no module
 - Fazer o export no public-api
+
+### Build da aplicação
+
+```bash
+ng build @ocr-fast/ocr-fast-lib
+```
+
+### Gerar o .tgz
+
+```bash
+npm pack
+```
