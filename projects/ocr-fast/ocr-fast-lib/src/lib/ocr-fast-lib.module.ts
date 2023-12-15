@@ -1,16 +1,15 @@
 import { NgModule } from '@angular/core';
-import { OcrFastLibComponent } from './ocr-fast-lib.component';
-
+import { ButtonComponent } from './button/button.component';
 
 
 @NgModule({
   declarations: [
-    OcrFastLibComponent
+    ButtonComponent
   ],
   imports: [
   ],
   exports: [
-    OcrFastLibComponent
+    ButtonComponent
   ]
 })
 export class OcrFastLibModule { }
