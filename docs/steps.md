@@ -32,3 +32,9 @@ ng build @ocr-fast/ocr-fast-lib
 ```bash
 npm pack
 ```
+
+### Instalar local no outro projeto
+
+```bash
+npm install (caminho até o package extraído)
+```
